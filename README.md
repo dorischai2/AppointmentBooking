@@ -32,7 +32,7 @@ user can view all future appointments or filter by date, only viewing appointmen
 
 ![appView](images/AppointmentView.png)
 
-## Conclusions / Outcomes
+# Conclusions / Outcomes
 * learned to effectively use C language to create small console applications;
 * learned to break down a large issue into smaller pieces and implement and test each piece gradually;
 * inspired by the project that with the knowledge we learned in first semester, we are already able to build useful software
