@@ -1,5 +1,5 @@
 # Summary
-The project was originally completed in December 2023 as part of the introduction to C programming course. The console application is designed to efficiently manage data of patients and appointments for a small veterinary operation. 
+The project was originally completed in December 2023 as a project to apply C programming principles. The console application is designed to efficiently manage data for patients and appointments for a small veterinary operation. 
 
 # Patient Management
 When the patient management system is selected initially, a menu with a few options related to patients is displayed and user is prompted to enter a selection:
